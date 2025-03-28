@@ -1,0 +1,5 @@
+export const ACTION = {
+  LOGIN: 'LOGIN',
+  LOGOUT: 'LOGOUT',
+  SECLECTED_ITEM: 'SECLECTED_ITEM',
+};
